@@ -5,7 +5,6 @@ const Logo = props => {
         <div className='logo'>
             <img src={props.logo} alt='logo photo'/>
         </div>
-
     )
 };
 
