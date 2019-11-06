@@ -1,33 +1,33 @@
-// import React from "react";
-// import post1 from './components/image/chernobyl.jpg';
-// import post2 from './components/image/got.jpg';
-// import post3 from './components/image/blinders.jpg';
-// import post4 from './components/image/sopranos.jpg';
-// import post5 from './components/image/sherlock.jpg';
-// import post6 from './components/image/detective.jpg';
-// import post7 from './components/image/fargo.jpg';
-// import post8 from './components/image/pride.jpg';
-// import post9 from './components/image/human.jpg';
-// import link1 from './components/image/a-icon.png';
-// import link2 from './components/image/facebook-icon.png';
-// import link3 from './components/image/google-icon.png';
-// import link4 from './components/image/icon-slack.png';
-// import link5 from './components/image/spotify-icon.png';
+import logo from './image/logo.png';
+import post1 from './image/chernobyl.jpg';
+import post2 from './image/got.jpg';
+import post3 from './image/blinders.jpg';
+import post4 from './image/sopranos.jpg';
+import post5 from './image/sherlock.jpg';
+import post6 from './image/detective.jpg';
+import post7 from './image/fargo.jpg';
+import post8 from './image/pride.jpg';
+import post9 from './image/human.jpg';
+import link1 from './image/a-icon.png';
+import link2 from './image/facebook-icon.png';
+import link3 from './image/google-icon.png';
+import link4 from './image/icon-slack.png';
+import link5 from './image/spotify-icon.png';
 
-
-// export const Images = [
-//     { id: 1, src: {post1}},
-//     { id: 2, src: {post2}},
-//     { id: 3, src: {post3}},
-//     { id: 4, src: {post4}},
-//     { id: 5, src: {post5}},
-//     { id: 6, src: {post6}},
-//     { id: 7, src: {post7}},
-//     { id: 8, src: {post8}},
-//     { id: 9, src: {post9}},
-//     { id: 10, src: {link1}},
-//     { id: 11, src: {link2}},
-//     { id: 12, src: {link3}},
-//     { id: 13, src: {link4}},
-//     { id: 14, src: {link5}}
-// ];
+export default {
+    logo,
+    post1,
+    post2,
+    post3,
+    post4,
+    post5,
+    post6,
+    post7,
+    post8,
+    post9,
+    link1,
+    link2,
+    link3,
+    link4,
+    link5
+}
